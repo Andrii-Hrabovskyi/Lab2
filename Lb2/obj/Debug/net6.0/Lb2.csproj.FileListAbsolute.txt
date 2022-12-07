@@ -1,0 +1,15 @@
+C:\Users\andri\OneDrive\Desktop\1\Lb2\bin\Debug\net6.0\Lb2.exe
+C:\Users\andri\OneDrive\Desktop\1\Lb2\bin\Debug\net6.0\Lb2.deps.json
+C:\Users\andri\OneDrive\Desktop\1\Lb2\bin\Debug\net6.0\Lb2.runtimeconfig.json
+C:\Users\andri\OneDrive\Desktop\1\Lb2\bin\Debug\net6.0\Lb2.dll
+C:\Users\andri\OneDrive\Desktop\1\Lb2\bin\Debug\net6.0\Lb2.pdb
+C:\Users\andri\OneDrive\Desktop\1\Lb2\obj\Debug\net6.0\Lb2.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Desktop\1\Lb2\obj\Debug\net6.0\Lb2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\OneDrive\Desktop\1\Lb2\obj\Debug\net6.0\Lb2.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Desktop\1\Lb2\obj\Debug\net6.0\Lb2.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Desktop\1\Lb2\obj\Debug\net6.0\Lb2.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Desktop\1\Lb2\obj\Debug\net6.0\Lb2.dll
+C:\Users\andri\OneDrive\Desktop\1\Lb2\obj\Debug\net6.0\refint\Lb2.dll
+C:\Users\andri\OneDrive\Desktop\1\Lb2\obj\Debug\net6.0\Lb2.pdb
+C:\Users\andri\OneDrive\Desktop\1\Lb2\obj\Debug\net6.0\Lb2.genruntimeconfig.cache
+C:\Users\andri\OneDrive\Desktop\1\Lb2\obj\Debug\net6.0\ref\Lb2.dll
